@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = $yannlc@posteo.net
+	email = yannlc@posteo.net
 	name = Yann Le Corre
